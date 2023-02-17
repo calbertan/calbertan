@@ -25,9 +25,9 @@ class SoftwareDeveloper:
         self.name = "Christopher Albert Tan"
         self.role = "Software Developer"
         self.skills = {
-            "language" : [Python, C++, C, Rust, Java, JavaScript, HTML, CSS, Haskell, mySQL],
-            "framework" : [React, Node.js, NEXT, BootStrap],
-            "tools" : [VSCode, AndroidStudio, GitHub, TravisCI, Vercel, Heroku, Linux, Windows]
+            "language" : ['Python', 'C++', 'C', 'Rust', 'Java', 'JavaScript', 'HTML', 'CSS', 'Haskell', 'mySQL'],
+            "framework" : ['React', 'Node.js', 'NEXT', 'BootStrap'],
+            "tools" : ['VSCode', 'AndroidStudio', 'GitHub', 'TravisCI', 'Vercel', 'Heroku', 'Linux', 'Windows']
         }
 
     def say_hi(self):
@@ -35,10 +35,13 @@ class SoftwareDeveloper:
     
     def working_on(self):
         print("Currently working my on project, mmdb.")
+        
+    def introduction(self):
+        self.say_hi()
+        self.working_on()
 
 me = SoftwareDeveloper()
-me.say_hi()
-me.working_on()
+me.introduction()
 ```
 
 ## 🗂️ Highlight Projects
