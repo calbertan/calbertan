@@ -4,7 +4,7 @@
 <p>
     <em>Software Systems Student</em> @ <a href="https://www.sfu.ca/">SFU</a>
     <br>    
-    <em>Teaching Assistant</em> for Algorithm and Data Structures @ <a href="https://langara.ca/programs-and-courses/courses/CPSC/1160.html">Langara</a>
+    <em>Junior DevOps Specialist</em> for BCGov's DevOps and Cloud Services Branch
     <br>
     <em>Webmaster</em> for <a href="sfuia.com">SFUIA</a>
 </p>
