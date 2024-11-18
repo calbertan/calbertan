@@ -2,11 +2,9 @@
 
 <h2> Hi, I'm Chris!</h2>
 <p>
-    <em>Software Systems Student</em> @ <a href="https://www.sfu.ca/">SFU</a>
+    <em>4th year Software Systems Student</em> @ <a href="https://www.sfu.ca/">SFU</a>
     <br>    
-    <em>Junior DevOps Specialist</em> for BCGov's DevOps and Cloud Services Branch
-    <br>
-    <em>Webmaster</em> for <a href="sfuia.com">SFUIA</a>
+    <em>DevOps Specialist</em>
 </p>
 
 [![Linkedin: calbertan](https://img.shields.io/badge/-calbertan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/calbertan/)
@@ -25,8 +23,8 @@ class SoftwareDeveloper:
         self.name = "Christopher Albert Tan"
         self.role = "Software Developer"
         self.skills = {
-            "language" : ['Python', 'C++', 'C', 'Rust', 'Java', 'JavaScript', 'HTML', 'CSS', 'Haskell', 'mySQL'],
-            "framework" : ['React', 'Node.js', 'NEXT', 'BootStrap'],
+            "language" : ['Python', 'HCL', 'C++', 'C', 'Rust', 'Java', 'JavaScript', 'HTML', 'CSS', 'Haskell', 'mySQL'],
+            "framework" : ['React', 'Node.js', 'NEXT', 'Typescript'],
             "tools" : ['VSCode', 'AndroidStudio', 'GitHub', 'TravisCI', 'Vercel', 'Heroku', 'Linux', 'Windows']
         }
 
