@@ -2,7 +2,7 @@
 
 <h2> Hi, I'm Chris!</h2>
 <p>
-    <em>4th year Software Systems Student</em> @ <a href="https://www.sfu.ca/">SFU</a>
+    <em><a href="https://www.sfu.ca/">SFU</a> 25 | Prev. @ Samsung</em>
     <br>    
     <em>DevOps Specialist</em>
 </p>
