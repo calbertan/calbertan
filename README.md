@@ -1,6 +1,6 @@
 <h2> Hi, I'm Chris!</h2>
 <p>
-    <em><a href="https://www.sfu.ca/">SFU SoSy</a> 25</em>
+    <em><a href="https://www.sfu.ca/fas/study/future-undergraduates/programs/major/software-systems-bachelor-science.html">SFU SoSy</a> 25</em>
 </p>
 
 Prev: Samsung, BCGov - public cloud
